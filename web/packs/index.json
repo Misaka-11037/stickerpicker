@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "seyana.json",
+    "zdz_cocona.json",
+    "Watora.json",
+    "KafuuChino.json",
+    "JoJun_Pack_Transparent.json",
+    "lanterboy.json",
+    "what_what_time_is_it.json",
+    "Otogitune.json"
+  ],
+  "homeserver_url": "https://matrix.misaka.me"
+}
